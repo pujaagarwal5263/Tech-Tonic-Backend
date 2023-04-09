@@ -1,0 +1,158 @@
+Team size,duration,app idea,app type,designing,Frontend Primary,Frontend Secondary,Backend Primary,Backend seconday,Database Primary,Database Secondary,Tech stack
+small,short,CRUD App,Web,Intermediate,ReactJS,NextJS,Node,PHP,MongoDB,MySQL,MERN stack
+very small,short,CRUD App,Web,Intermediate,ReactJS,Angular,PHP,Node,MongoDB,MySQL,MERN stack
+small,short,CRUD App,Web,Intermediate,NextJS,Vue,Node,PHP,MongoDB,MySQL,MEVN stack
+very small,short,CRUD App,Web,Intermediate,ReactJS,Vue,PHP,Node,MongoDB,MySQL,MEVN stack
+small,medium,CRUD App,Web,Advanced,N/A,Angular,PHP,Node,MySQL,N/A,AngularPHP stack
+small,medium,CRUD App,Web,Basic,N/A,N/A,N/A,N/A,N/A,N/A,MEVN stack
+small,medium,CRUD App,Mob,Basic,N/A,N/A,N/A,N/A,N/A,N/A,Flutter
+small,medium,CRUD App,Web,Advanced,N/A,Angular,Node,Express,MySQL,MongoDB,Node-Mongo with template
+small,short,CRUD App,Mob,Intermediate,React Native,Flutter,Node,Express,MongoDB,MySQL,RN with Node
+small,medium,CRUD App,Mob,Basic,Flutter,React Native,Express,Node,MongoDB,MySQL,Flutter-Node stack
+medium,medium,CRUD App,Mob,Intermediate,XML,React Native,Java,Node,MySQL,N/A,Android Native stack
+large,long,CRUD App,Mob,Basic,Swift,React Native,Node,Laravel,MySQL,MongoDB,iOS Native stack
+small,medium,E-commerce App,Web,Basic,ReactJS,NextJS,Laravel,PHP,MySQL,N/A,ReactPHP stack
+very small,short,E-commerce App,Web,Basic,Vue,NextJS,Laravel,PHP,MySQL,N/A,Vue-PHP stack
+small,medium,E-commerce App,Web,Basic,Vue,NextJS,Laravel,PHP,MySQL,N/A,Next-PHP stack
+medium,medium,E-commerce App,Web,Basic,Vue,NextJS,Node,PHP,MySQL,N/A,Next-Node stack
+large,long,E-commerce App,Web,Intermediate,Angular,NextJS,Node,PHP,MySQL,N/A,Angular-Node-RelationalDB
+medium,medium,E-commerce App,Web,Basic,Vue,NextJS,Node,PHP,MySQL,GraphQL,Next-Node stack with GQL
+large,long,E-commerce App,Web,Intermediate,Angular,NextJS,Node,PHP,GraphQL,MySQL,Angular-Node-RelationalDB with GQL
+large,long,E-commerce App,Web,Intermediate,Angular,NextJS,Node,PHP,GraphQL,MongoDB,MEAN with GQL
+medium,long,E-commerce App,Web,Intermediate,Angular,Vue,Node,PHP,MySQL,N/A,Angular-Node-RelationalDB
+small,short,expense tracker,Web,Intermediate,ReactJS,N/A,Node,Express,N/A,N/A,React
+small,short,expense tracker,Web,Intermediate,ReactJS,Vue,Node,Express,MySQL,Postgres,MEVN stack 
+small,short,expense tracker,Web,Intermediate,Angular,N/A,PHP,Node,Postgres,MySQL,Angular
+small,medium,expense tracker,Web,Intermediate,Angular,Vue,PHP,Laravel,Postgres,N/A,AngularPHP stack
+medium,medium,simple management system,Web,Intermediate,Angular,Vue,SpringBoot,N/A,MySQL,Postgres,Vue-Spring stack
+medium,medium,complex management system,Web,Intermediate,ReactJS,NextJS,SpringBoot,Node,MySQL,Postgres,React-Node-RelationalDB
+medium,medium,simple management system,Web,Basic,N/A,N/A,N/A,N/A,N/A,N/A,MERN stack
+medium,medium,simple management system,Mob,Basic,N/A,N/A,N/A,N/A,N/A,N/A,React Native
+small,long,food delivery,Mob,Intermediate,React Native,Swift,Node,Express,MongoDB,N/A,RN with Node
+small,short,food delivery,Mob,Intermediate,Flutter,React Native,Node,SpringBoot,MySQL,Postgres,Flutter-Node stack
+small,short,food delivery,Mob,Intermediate,Flutter,XML,Node,Express,MongoDB,MySQL,Flutter-Node stack
+small,short,food delivery,Web,Intermediate,Angular,NextJS,PHP,Laravel,Postgres,MySQL,AngularPHP stack
+small,medium,food delivery,Web,Intermediate,Angular,Vue,PHP,N/A,Postgres,N/A,AngularPHP stack
+medium,short,food delivery,Web,Intermediate,Angular,N/A,PHP,Node,Postgres,MongoDB,AngularPHP stack
+medium,medium,food delivery,Web,Intermediate,Angular,ReactJS,PHP,N/A,Postgres,MySQL,AngularPHP stack
+small,short,Reservation platform,Web,Intermediate,ReactJS,N/A,PHP,SpringBoot,Postgres,MySQL,ReactPHP stack
+small,medium,Reservation platform,Web,Intermediate,ReactJS,Angular,PHP,Node,Postgres,N/A,React-Node-RelationalDB
+medium,short,Reservation platform,Web,Intermediate,ReactJS,Angular,PHP,Ruby on Rails,MySQL,Postgres,ReactPHP stack
+medium,medium,Reservation platform,Web,Intermediate,ReactJS,N/A,PHP,Django,MySQL,Postgres,ReactPHP stack
+small,short,Reservation platform,Web,Intermediate,ReactJS,Vue,Node,PHP,MongoDB,MySQL,MERN stack
+small,medium,Booking system,Web,Intermediate,ReactJS,NextJS,Node,Laravel,MongoDB,MySQL,MERN stack
+medium,short,Booking system,Web,Intermediate,NextJS,Angular,Node,Flask,MongoDB,Postgres,Next-Node stack
+medium,medium,Booking system,Web,Intermediate,ReactJS,Vue,Node,PHP,Postgres,MongoDB,MERN stack
+small,short,Booking system,Web,Intermediate,Angular,Vue,Node,N/A,MySQL,MongoDB,MEAN stack
+small,medium,Booking system,Web,Intermediate,Angular,Vue,Node,N/A,N/A,MongoDB,MEAN stack
+medium,short,Booking system,Web,Intermediate,Angular,NextJS,Node,NestJS,MongoDB,N/A,MEAN stack
+medium,medium,Booking system,Web,Intermediate,Angular,ReactJS,Node,NestJS,MySQL,MongoDB,MEAN stack
+large,long,food delivery,Web,Intermediate,Angular,ReactJS,Node,NestJS,MySQL,MongoDB,Angular-NestJS-RelationalDB
+large,long,food delivery,Web,Intermediate,ReactJS,Angular,NestJS,Node,MySQL,MongoDB,Angular-NestJS-RelationalDB
+large,medium,E-commerce App,Web,Basic,ReactJS,N/A,NestJS,Node,MongoDB,Postgres,MERN Stack
+large,medium,E-commerce App,Web,Basic,Angular,N/A,NestJS,Node,N/A,MongoDB,MEAN Stack
+large,medium,E-commerce App,Mob,Basic,Flutter,XML,NestJS,Node,Postgres,MongoDB,Flutter-Node stack
+large,medium,E-commerce App,Mob,Basic,Flutter,Swift,Node,Ruby on Rails,MySQL,GraphQL,Flutter-Node stack with GQL
+large,medium,E-commerce App,Mob,Basic,Flutter,N/A,Node,Express,GraphQL,MySQL,Flutter-Node stack with GQL
+large,medium,E-commerce App,Mob,Basic,React Native,Flutter,Node,Express,MongoDB,MySQL,RN with Node
+large,medium,E-commerce App,Mob,Basic,React Native,XML,Node,PHP,MySQL,Postgres,RN with Node
+large,medium,E-commerce App,Mob,Basic,React Native,Swift,Node,PHP,Postgres,GraphQL,RN with Node and GQL
+very small,short,Complex management system,Web,Basic,N/A,N/A,Node,SpringBoot,MongoDB,GraphQL,MERN with GQL
+small,medium,Complex management system,Web,Intermediate,Angular,Vue,Node,Express,GraphQL,MongoDB,MEAN with GQL
+medium,long,Complex management system,Web,Intermediate,ReactJS,Angular,Node,NestJS,MySQL,MongoDB,Angular-NestJS-RelationalDB
+large,medium,Complex management system,Web,Advanced,Angular,N/A,Node,Laravel,MongoDB,MySQL,Angular-Node-RelationalDB
+very small,medium,Complex management system,Web,Basic,Angular,NextJS,Node,PHP,MySQl,MongoDB,MEAN stack
+small,short,Complex management system,Web,Basic,ReactJS,N/A,Node,N/A,Postgres,GraphQL,MERN with GQL 
+medium,medium,Complex management system,Web,Intermediate,ReactJS,Vue,Node,N/A,MySQl,MongoDB,MERN stack
+large,long,Complex management system,Web,Intermediate,ReactJS,Angular,Node,NestJS,MySQl,N/A,Angular-NestJS-RelationalDB
+large,long,Social networking platform,Mob,Advanced,React Native,N/A,Node,Python,GraphQL,Postgres,RN with Node and GQL
+large,long,Social networking platform,Mob,Advanced,React Native,Flutter,Node,Laravel,MongoDB,GraphQL,RN with Node and GQL
+medium,medium,Social networking platform,Mob,Intermediate,React Native,Flutter,Node,Python,MongoDB,Postgres,RN with Node
+medium,medium,Social networking platform,Mob,Intermediate,React Native,Flutter,PHP,Laravel,GraphQL,Postgres,RN with PHP and GQL
+very small,short,Social networking platform,Mob,Intermediate,Flutter,React Native,Node,Express,MongoDB,Postgres,Flutter-Node stack
+small,short,Social networking platform,Web,Intermediate,ReactJS,Angular,Node,NestJS,MongoDB,MySQL,MERN stack
+medium,medium,Simple Management system,Web,Basic,Angular,ReactJS,Java,Spring,MySQL,N/A,React-Spring stack
+small,medium,Simple Management system,Web,Basic,Angular,ReactJS,Node,Spring,MySQL,MongoDB,MERN stack
+medium,medium,Simple Management system,Web,Intermediate,Angular,ReactJS,Node,Express,MySQL,MongoDB,MEAN stack
+very small,short,Simple Management system,Web,Intermediate,Angular,ReactJS,Node,Express,MySQL,MongoDB,MERN stack
+medium,medium,Simple Management system,Web,Basic,ReactJS,NextJS,Java,Spring,MySQL,N/A,React-Spring stack
+large,long,Simple Management system,Web,Advanced,Angular,ReactJS,Spring,Node,MySQL,MongoDB,Angular-Spring stack
+small,short,API data fetch,Mob,Basic,Swift,Flutter,Node,Express,MongoDB,N/A,Flutter-Node stack
+medium,short,API data fetch,Mob,Basic,Swift,Flutter,PHP,Express,MongoDB,MySQL,Flutter-Node stack
+medium,long,API data fetch,Mob,Intermediate,XML,Flutter,Java,Node,MySQL,N/A,Android Native
+small,long,API data fetch,Mob,Intermediate,XML,Flutter,Java,Express,MySQL,MongoDB,Android Native
+small,long,API data fetch,Mob,Intermediate,XML,Flutter,Java,Express,MySQL,MongoDB,Android Native
+small,short,API data fetch,Mob,Basic,N/A,N/A,N/A,N/A,N/A,N/A,React Native
+small,short,API data fetch,Web,Basic,N/A,N/A,N/A,N/A,N/A,N/A,React
+medium,medium,API data fetch,Mob,Intermediate,React Native,Flutter,Node,Express,MongoDB,N/A,RN with Node stack
+medium,medium,API data fetch,Web,Intermediate,ReactJS,Angular,Node,Express,MySQL,MongoDB,MERN stack
+large,long,API data fetch,Web,Advanced,ReactJS,Vue,Node,SpringBoot,MySQL,N/A,MERN stack
+very small,short,Todo application,Web,Basic,ReactJS,Angular,Node,SpringBoot,MySQL,MongoDB,React
+small,short,Todo application,Web,Intermediate,Angular,NextJS,PHP,SpringBoot,MongoDB,N/A,Angular
+small,short,Todo application,Web,Basic,N/A,N/A,N/A,N/A,N/A,N/A,React
+small,short,Todo application,Mob,Basic,N/A,N/A,N/A,N/A,N/A,N/A,Flutter
+small,short,Todo application,Web,Intermediate,ReactJS,NextJS,PHP,SpringBoot,N/A,N/A,React
+medium,medium,Todo application,Web,Intermediate,Angular,NextJS,Express,Python,MySQL,Postgres,Angular-Node-RelationalDB
+medium,medium,Todo application,Web,Intermediate,NextJS,ReactJS,Express,Python,MySQL,Postgres,React-Node-RelationalDB
+small,short,Todo application,Web,Intermediate,Angular,NextJS,Python,Node,Postgres,MongoDB,Angular
+medium,medium,Todo application,Web,Basic,Angular,ReactJS,Node,Express,MongoDB,MySQL,MERN stack
+medium,medium,Todo application,Web,Advanced,ReactJS,N/A,Node,Ruby on Rails,MySQL,N/A,React-Node-RelationalDB
+small,medium,Todo application,Mob,Intermediate,React Native,XML,Node,Express,N/A,N/A,React Native
+very small,short,Todo application,Mob,Intermediate,React Native,Flutter,PHP,Node,MySQL,MongoDB,React Native
+small,short,Todo application,Mob,Intermediate,Swift,React Native,Python,Flask,MongoDB,Postgres,iOS Native
+large,long,Todo application,Mob,Basic,Flutter,Swift,Laravel,SpringBoot,N/A,MongoDB,Flutter-PHP stack
+medium,long,Todo application,Mob,Advanced,XML,Flutter,Java,Django,N/A,Postgres,Android Native
+medium,long,Todo application,Mob,Intermediate,XML,React Native,Express,NestJS,Postgres,MongoDB,RN with Node stack
+small,short,Job portal,Mob,Intermediate,Swift,Flutter,Node,Express,MongoDB,MySQL,Flutter-Node stack
+very small,short,Job portal,Mob,Basic,Flutter,Swift,Node,Laravel,MySQL,Postgres,Flutter-Node stack
+medium,medium,Job portal,Mob,intermediate,React Native,Flutter,PHP,SpringBoot,MySQL,MongoDB,RN with PHP
+medium,short,Job portal,Mob,intermediate,Flutter,XML,SpringBoot,Laravel,MySQL,N/A,RN with Laravel
+large,long,Job portal,Mob,advanced,XML,React Native,SpringBoot,PHP,MySQL,Postgres,RN with Spring
+large,medium,Job portal,Web,intermediate,ReactJS,NextJS,Node,Laravel,MySQL,MongoDB,MERN stack
+medium,long,Job portal,Web,intermediate,Angular,ReactJS,PHP,Java,MySQL,Postgres,AngularPHP stack
+very small,short,Job portal,Web,basic,Vue,NextJS,Node,Express,MongoDB,N/A,MEVN stack
+medium,medium,Job portal,Web,basic,ReactJS,NextJS,Laravel,SpringBoot,MySQL,MongoDB,ReactPHP stack
+medium,short,Job portal,Web,intermediate,ReactJS,Angular,SpringBoot,Node,Postgres,MongoDB,React-Node-RelationalDB
+medium,long,Job portal,Web,Intermediate,Vue.js,ReactJS,Python,Django,PostgreSQL,N/A,React-Python stack
+large,long,Social networking platform,Web,Intermediate,NextJS,ReactJS,Node,Python,MongoDB,Postgres,Next-Node stack
+large,long,Social networking platform,Web,Basic,ReactJS,NextJS,SpringBoot,Node,GraphQL,Postgres,Next-Node with GQL stack
+medium,medium,Social networking platform,Web,Intermediate,Angular,NextJS,Node,Python,GraphQL,Postgres,Next-Node with GQL stack
+medium,medium,Social networking platform,Web,Intermediate,ReactJS,NextJS,PHP,Laravel,MongoDB,Postgres,NextPHP stack
+very small,short,Social networking platform,Web,Intermediate,Vue,ReactJS,Node,Express,MongoDB,Postgres,MEVN stack
+small,short,Social networking platform,Web,Intermediate,Vue,Angular,Node,NestJS,MongoDB,MySQL,MEVN stack
+large,short,Online learning platform,Web,Advanced,ReactJS,NextJS,Java,Spring Boot,PostgreSQL,GraphQL,React-Spring stack
+small,medium,Online learning platform,Web,Intermediate,Vue,NextJS,Node,Python,MongoDB,N/A,MEVN stack
+very small,short,Online learning platform,Web,Basic,ReactJS,Angular,Django,Node,MySQL,N/A,MERN stack
+small,short,Online learning platform,Web,Basic,Angular,Vue,Node,Java,MySQL,MongoDB,MEVN stack
+medium,medium,Online learning platform,Web,Intermediate,ReactJS,NextJS,Java,Laravel,MySQL,Postgres,ReactPHP stack
+large,long,Online learning platform,Web,Intermediate,NextJS,Angular,SpringBoot,Java,MySQL,MongoDB,Angular-Spring stack
+medium,long,Online learning platform,Mob,Intermediate,Flutter,React Native,Java,PHP,MySQl,MongoDB,RN with Node stack
+small,medium,Online learning platform,Mob,Basic,Flutter,Swift,Laravel,Django,MongoDB,N/A,Flutter-PHP stack
+very small,short,Online learning platform,Mob,Basic,React Native,XML,Node,Flask,MySQL,MongoDB,RN with Node
+small,short,Online learning platform,Mob,Intermediate,Swift,XML,Node,PHP,MongoDB,Postgres,iOS Native
+small,short,Online learning platform,Mob,Intermediate,Swift,XML,Java,Node,MySQL,N/A,Android Native
+medium,medium,Online learning platform,Mob,Intermediate,React Native,Flutter,PHP,Python,MySQl,MongoDB,Flutter-PHP stack
+small,short,Gaming Platform,Mob,Basic,React Native,Flutter,Node,PHP,MySQL,MongoDB,Flutter-Node stack
+very small,short,Gaming Platform,Mob,Intermediate,XML,Flutter,Laravel,Django,MongoDB,MySQL,Flutter-Python stack
+medium,medium,Gaming Platform,Mob,Intermediate,React Native,Swift,Java,Python,MySQL,N/A,Flutter-Python stack
+large,long,Gaming Platform,Mob,Advanced,React Native,Flutter,Java,PHP,MongoDB,N/A,Flutter-Java stack
+small,short,Gaming Platform,Web,Basic,Vue,NextJS,Node,SpringBoot,MySQL,MongoDB,Next-Node stack
+very small,short,Gaming Platform,Web,Intermediate,ReactJS,Vue,Django,Flask,MySQL,Postgres,Next-Python stack
+medium,medium,Gaming Platform,Web,Intermediate,Angular,NextJS,Java,Python,N/A,N/A,Next-Python stack
+large,long,Gaming Platform,Web,Advanced,NextJS,ReactJS,Node,Python,MySQL,N/A,Next-Node stack
+small,short,Portfolio,Web,Basic,Vue,ReactJS,Node,PHP,MySQL,MongoDB,MEVN stack
+very small,short,Portfolio,Web,Intermediate,ReactJS,NextJS,PHP,Python,N/A,MySQL,MERN stack
+small,short,Portfolio,Web,Intermediate,ReactJS,Angular,Java,Node,MongoDB,N/A,MERN stack
+very small,short,Portfolio,Web,Basic,Angular,Vue,Node,Express,GraphQL,MySQL,MEVN stack
+small,short,Language Translator,Web,Basic,ReactJS,NextJS,Node,Express,GraphQL,MySQL,MERN stack
+very small,short,Language Translator,Web,Basic,Vue,ReactJS,Python,Node,MongoDB,GraphQL,MEVN stack
+medium,short,Language Translator,Web,Intermediate,Angular,NextJS,Node,PHP,MongoDB,MySQL,Next-Node stack
+medium,medium,Language Translator,Web,Intermediate,Angular,ReactJS,Laravel,Django,MySQL,MongoDB,React-Python stack
+small,short,Language Translator,Mob,Basic,Swift,Flutter,Node,PHP,MySQL,N/A,Flutter-Node stack
+very small,short,Language Translator,Mob,Basic,Flutter,React Native,Node,Python,MongoDB,GraphQL,RN with Node stack
+medium,short,Language Translator,Mob,Intermediate,React Native,Flutter,Java,Node,MySQL,Postgres,Flutter-Java stack
+medium,medium,Language Translator,Mob,Intermediate,React Native,Swift,Node,Express,MySQL,MongoDB,RN with Node stack
+very small,short,Complex management system,Mob,Basic,N/A,N/A,Node,SpringBoot,MongoDB,GraphQL,RN with Node
+small,medium,Complex management system,Mob,Intermediate,Flutter,Swift,Node,Express,GraphQL,MongoDB,Flutter-Node with GQl
+medium,long,Complex management system,Mob,Intermediate,React Native,XML,Node,NestJS,MySQL,MongoDB,RN with Node
+large,medium,Complex management system,Mob,Advanced,Flutter,Swift,Node,Laravel,MongoDB,MySQL,Flutter-Node with GQL

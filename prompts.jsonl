@@ -1,0 +1,157 @@
+{'prompt': 'A CRUD App in Web with small team in short duration with Intermediate desgining, ReactJS,NextJS,Node,PHP,MongoDB,MySQL skills', 'completion': 'MERN stack'}
+{'prompt': 'A CRUD App in Web with very small team in short duration with Intermediate desgining, ReactJS,Angular,PHP,Node,MongoDB,MySQL skills', 'completion': 'MERN stack'}
+{'prompt': 'A CRUD App in Web with small team in short duration with Intermediate desgining, NextJS,Vue,Node,PHP,MongoDB,MySQL skills', 'completion': 'MEVN stack'}
+{'prompt': 'A CRUD App in Web with very small team in short duration with Intermediate desgining, ReactJS,Vue,PHP,Node,MongoDB,MySQL skills', 'completion': 'MEVN stack'}
+{'prompt': 'A CRUD App in Web with small team in medium duration with Advanced desgining, N/A,Angular,PHP,Node,MySQL,N/A skills', 'completion': 'AngularPHP stack'}
+{'prompt': 'A CRUD App in Web with small team in medium duration with Basic desgining, N/A,N/A,N/A,N/A,N/A,N/A skills', 'completion': 'MEVN stack'}
+{'prompt': 'A CRUD App in Mob with small team in medium duration with Basic desgining, N/A,N/A,N/A,N/A,N/A,N/A skills', 'completion': 'Flutter'}
+{'prompt': 'A CRUD App in Web with small team in medium duration with Advanced desgining, N/A,Angular,Node,Express,MySQL,MongoDB skills', 'completion': 'Node-Mongo with template'}
+{'prompt': 'A CRUD App in Mob with small team in short duration with Intermediate desgining, React Native,Flutter,Node,Express,MongoDB,MySQL skills', 'completion': 'RN with Node'}
+{'prompt': 'A CRUD App in Mob with small team in medium duration with Basic desgining, Flutter,React Native,Express,Node,MongoDB,MySQL skills', 'completion': 'Flutter-Node stack'}
+{'prompt': 'A CRUD App in Mob with medium team in medium duration with Intermediate desgining, XML,React Native,Java,Node,MySQL,N/A skills', 'completion': 'Android Native stack'}
+{'prompt': 'A CRUD App in Mob with large team in long duration with Basic desgining, Swift,React Native,Node,Laravel,MySQL,MongoDB skills', 'completion': 'iOS Native stack'}
+{'prompt': 'A E-commerce App in Web with small team in medium duration with Basic desgining, ReactJS,NextJS,Laravel,PHP,MySQL,N/A skills', 'completion': 'ReactPHP stack'}
+{'prompt': 'A E-commerce App in Web with very small team in short duration with Basic desgining, Vue,NextJS,Laravel,PHP,MySQL,N/A skills', 'completion': 'Vue-PHP stack'}
+{'prompt': 'A E-commerce App in Web with small team in medium duration with Basic desgining, Vue,NextJS,Laravel,PHP,MySQL,N/A skills', 'completion': 'Next-PHP stack'}
+{'prompt': 'A E-commerce App in Web with medium team in medium duration with Basic desgining, Vue,NextJS,Node,PHP,MySQL,N/A skills', 'completion': 'Next-Node stack'}
+{'prompt': 'A E-commerce App in Web with large team in long duration with Intermediate desgining, Angular,NextJS,Node,PHP,MySQL,N/A skills', 'completion': 'Angular-Node-RelationalDB'}
+{'prompt': 'A E-commerce App in Web with medium team in medium duration with Basic desgining, Vue,NextJS,Node,PHP,MySQL,GraphQL skills', 'completion': 'Next-Node stack with GQL'}
+{'prompt': 'A E-commerce App in Web with large team in long duration with Intermediate desgining, Angular,NextJS,Node,PHP,GraphQL,MySQL skills', 'completion': 'Angular-Node-RelationalDB with GQL'}
+{'prompt': 'A E-commerce App in Web with large team in long duration with Intermediate desgining, Angular,NextJS,Node,PHP,GraphQL,MongoDB skills', 'completion': 'MEAN with GQL'}
+{'prompt': 'A E-commerce App in Web with medium team in long duration with Intermediate desgining, Angular,Vue,Node,PHP,MySQL,N/A skills', 'completion': 'Angular-Node-RelationalDB'}
+{'prompt': 'A expense tracker in Web with small team in short duration with Intermediate desgining, ReactJS,N/A,Node,Express,N/A,N/A skills', 'completion': 'React'}
+{'prompt': 'A expense tracker in Web with small team in short duration with Intermediate desgining, ReactJS,Vue,Node,Express,MySQL,Postgres skills', 'completion': 'MEVN stack '}
+{'prompt': 'A expense tracker in Web with small team in short duration with Intermediate desgining, Angular,N/A,PHP,Node,Postgres,MySQL skills', 'completion': 'Angular'}
+{'prompt': 'A expense tracker in Web with small team in medium duration with Intermediate desgining, Angular,Vue,PHP,Laravel,Postgres,N/A skills', 'completion': 'AngularPHP stack'}
+{'prompt': 'A simple management system in Web with medium team in medium duration with Intermediate desgining, Angular,Vue,SpringBoot,N/A,MySQL,Postgres skills', 'completion': 'Vue-Spring stack'}
+{'prompt': 'A complex management system in Web with medium team in medium duration with Intermediate desgining, ReactJS,NextJS,SpringBoot,Node,MySQL,Postgres skills', 'completion': 'React-Node-RelationalDB'}
+{'prompt': 'A simple management system in Web with medium team in medium duration with Basic desgining, N/A,N/A,N/A,N/A,N/A,N/A skills', 'completion': 'MERN stack'}
+{'prompt': 'A simple management system in Mob with medium team in medium duration with Basic desgining, N/A,N/A,N/A,N/A,N/A,N/A skills', 'completion': 'React Native'}
+{'prompt': 'A food delivery in Mob with small team in long duration with Intermediate desgining, React Native,Swift,Node,Express,MongoDB,N/A skills', 'completion': 'RN with Node'}
+{'prompt': 'A food delivery in Mob with small team in short duration with Intermediate desgining, Flutter,React Native,Node,SpringBoot,MySQL,Postgres skills', 'completion': 'Flutter-Node stack'}
+{'prompt': 'A food delivery in Mob with small team in short duration with Intermediate desgining, Flutter,XML,Node,Express,MongoDB,MySQL skills', 'completion': 'Flutter-Node stack'}
+{'prompt': 'A food delivery in Web with small team in short duration with Intermediate desgining, Angular,NextJS,PHP,Laravel,Postgres,MySQL skills', 'completion': 'AngularPHP stack'}
+{'prompt': 'A food delivery in Web with small team in medium duration with Intermediate desgining, Angular,Vue,PHP,N/A,Postgres,N/A skills', 'completion': 'AngularPHP stack'}
+{'prompt': 'A food delivery in Web with medium team in short duration with Intermediate desgining, Angular,N/A,PHP,Node,Postgres,MongoDB skills', 'completion': 'AngularPHP stack'}
+{'prompt': 'A food delivery in Web with medium team in medium duration with Intermediate desgining, Angular,ReactJS,PHP,N/A,Postgres,MySQL skills', 'completion': 'AngularPHP stack'}
+{'prompt': 'A Reservation platform in Web with small team in short duration with Intermediate desgining, ReactJS,N/A,PHP,SpringBoot,Postgres,MySQL skills', 'completion': 'ReactPHP stack'}
+{'prompt': 'A Reservation platform in Web with small team in medium duration with Intermediate desgining, ReactJS,Angular,PHP,Node,Postgres,N/A skills', 'completion': 'React-Node-RelationalDB'}
+{'prompt': 'A Reservation platform in Web with medium team in short duration with Intermediate desgining, ReactJS,Angular,PHP,Ruby on Rails,MySQL,Postgres skills', 'completion': 'ReactPHP stack'}
+{'prompt': 'A Reservation platform in Web with medium team in medium duration with Intermediate desgining, ReactJS,N/A,PHP,Django,MySQL,Postgres skills', 'completion': 'ReactPHP stack'}
+{'prompt': 'A Reservation platform in Web with small team in short duration with Intermediate desgining, ReactJS,Vue,Node,PHP,MongoDB,MySQL skills', 'completion': 'MERN stack'}
+{'prompt': 'A Booking system in Web with small team in medium duration with Intermediate desgining, ReactJS,NextJS,Node,Laravel,MongoDB,MySQL skills', 'completion': 'MERN stack'}
+{'prompt': 'A Booking system in Web with medium team in short duration with Intermediate desgining, NextJS,Angular,Node,Flask,MongoDB,Postgres skills', 'completion': 'Next-Node stack'}
+{'prompt': 'A Booking system in Web with medium team in medium duration with Intermediate desgining, ReactJS,Vue,Node,PHP,Postgres,MongoDB skills', 'completion': 'MERN stack'}
+{'prompt': 'A Booking system in Web with small team in short duration with Intermediate desgining, Angular,Vue,Node,N/A,MySQL,MongoDB skills', 'completion': 'MEAN stack'}
+{'prompt': 'A Booking system in Web with small team in medium duration with Intermediate desgining, Angular,Vue,Node,N/A,N/A,MongoDB skills', 'completion': 'MEAN stack'}
+{'prompt': 'A Booking system in Web with medium team in short duration with Intermediate desgining, Angular,NextJS,Node,NestJS,MongoDB,N/A skills', 'completion': 'MEAN stack'}
+{'prompt': 'A Booking system in Web with medium team in medium duration with Intermediate desgining, Angular,ReactJS,Node,NestJS,MySQL,MongoDB skills', 'completion': 'MEAN stack'}
+{'prompt': 'A food delivery in Web with large team in long duration with Intermediate desgining, Angular,ReactJS,Node,NestJS,MySQL,MongoDB skills', 'completion': 'Angular-NestJS-RelationalDB'}
+{'prompt': 'A food delivery in Web with large team in long duration with Intermediate desgining, ReactJS,Angular,NestJS,Node,MySQL,MongoDB skills', 'completion': 'Angular-NestJS-RelationalDB'}
+{'prompt': 'A E-commerce App in Web with large team in medium duration with Basic desgining, ReactJS,N/A,NestJS,Node,MongoDB,Postgres skills', 'completion': 'MERN Stack'}
+{'prompt': 'A E-commerce App in Web with large team in medium duration with Basic desgining, Angular,N/A,NestJS,Node,N/A,MongoDB skills', 'completion': 'MEAN Stack'}
+{'prompt': 'A E-commerce App in Mob with large team in medium duration with Basic desgining, Flutter,XML,NestJS,Node,Postgres,MongoDB skills', 'completion': 'Flutter-Node stack'}
+{'prompt': 'A E-commerce App in Mob with large team in medium duration with Basic desgining, Flutter,Swift,Node,Ruby on Rails,MySQL,GraphQL skills', 'completion': 'Flutter-Node stack with GQL'}
+{'prompt': 'A E-commerce App in Mob with large team in medium duration with Basic desgining, Flutter,N/A,Node,Express,GraphQL,MySQL skills', 'completion': 'Flutter-Node stack with GQL'}
+{'prompt': 'A E-commerce App in Mob with large team in medium duration with Basic desgining, React Native,Flutter,Node,Express,MongoDB,MySQL skills', 'completion': 'RN with Node'}
+{'prompt': 'A E-commerce App in Mob with large team in medium duration with Basic desgining, React Native,XML,Node,PHP,MySQL,Postgres skills', 'completion': 'RN with Node'}
+{'prompt': 'A E-commerce App in Mob with large team in medium duration with Basic desgining, React Native,Swift,Node,PHP,Postgres,GraphQL skills', 'completion': 'RN with Node and GQL'}
+{'prompt': 'A Complex management system in Web with very small team in short duration with Basic desgining, N/A,N/A,Node,SpringBoot,MongoDB,GraphQL skills', 'completion': 'MERN with GQL'}
+{'prompt': 'A Complex management system in Web with small team in medium duration with Intermediate desgining, Angular,Vue,Node,Express,GraphQL,MongoDB skills', 'completion': 'MEAN with GQL'}
+{'prompt': 'A Complex management system in Web with medium team in long duration with Intermediate desgining, ReactJS,Angular,Node,NestJS,MySQL,MongoDB skills', 'completion': 'Angular-NestJS-RelationalDB'}
+{'prompt': 'A Complex management system in Web with large team in medium duration with Advanced desgining, Angular,N/A,Node,Laravel,MongoDB,MySQL skills', 'completion': 'Angular-Node-RelationalDB'}
+{'prompt': 'A Complex management system in Web with very small team in medium duration with Basic desgining, Angular,NextJS,Node,PHP,MySQl,MongoDB skills', 'completion': 'MEAN stack'}
+{'prompt': 'A Complex management system in Web with small team in short duration with Basic desgining, ReactJS,N/A,Node,N/A,Postgres,GraphQL skills', 'completion': 'MERN with GQL '}
+{'prompt': 'A Complex management system in Web with medium team in medium duration with Intermediate desgining, ReactJS,Vue,Node,N/A,MySQl,MongoDB skills', 'completion': 'MERN stack'}
+{'prompt': 'A Complex management system in Web with large team in long duration with Intermediate desgining, ReactJS,Angular,Node,NestJS,MySQl,N/A skills', 'completion': 'Angular-NestJS-RelationalDB'}
+{'prompt': 'A Social networking platform in Mob with large team in long duration with Advanced desgining, React Native,N/A,Node,Python,GraphQL,Postgres skills', 'completion': 'RN with Node and GQL'}
+{'prompt': 'A Social networking platform in Mob with large team in long duration with Advanced desgining, React Native,Flutter,Node,Laravel,MongoDB,GraphQL skills', 'completion': 'RN with Node and GQL'}
+{'prompt': 'A Social networking platform in Mob with medium team in medium duration with Intermediate desgining, React Native,Flutter,Node,Python,MongoDB,Postgres skills', 'completion': 'RN with Node'}
+{'prompt': 'A Social networking platform in Mob with medium team in medium duration with Intermediate desgining, React Native,Flutter,PHP,Laravel,GraphQL,Postgres skills', 'completion': 'RN with PHP and GQL'}
+{'prompt': 'A Social networking platform in Mob with very small team in short duration with Intermediate desgining, Flutter,React Native,Node,Express,MongoDB,Postgres skills', 'completion': 'Flutter-Node stack'}
+{'prompt': 'A Social networking platform in Web with small team in short duration with Intermediate desgining, ReactJS,Angular,Node,NestJS,MongoDB,MySQL skills', 'completion': 'MERN stack'}
+{'prompt': 'A Simple Management system in Web with medium team in medium duration with Basic desgining, Angular,ReactJS,Java,Spring,MySQL,N/A skills', 'completion': 'React-Spring stack'}
+{'prompt': 'A Simple Management system in Web with small team in medium duration with Basic desgining, Angular,ReactJS,Node,Spring,MySQL,MongoDB skills', 'completion': 'MERN stack'}
+{'prompt': 'A Simple Management system in Web with medium team in medium duration with Intermediate desgining, Angular,ReactJS,Node,Express,MySQL,MongoDB skills', 'completion': 'MEAN stack'}
+{'prompt': 'A Simple Management system in Web with very small team in short duration with Intermediate desgining, Angular,ReactJS,Node,Express,MySQL,MongoDB skills', 'completion': 'MERN stack'}
+{'prompt': 'A Simple Management system in Web with medium team in medium duration with Basic desgining, ReactJS,NextJS,Java,Spring,MySQL,N/A skills', 'completion': 'React-Spring stack'}
+{'prompt': 'A Simple Management system in Web with large team in long duration with Advanced desgining, Angular,ReactJS,Spring,Node,MySQL,MongoDB skills', 'completion': 'Angular-Spring stack'}
+{'prompt': 'A API data fetch in Mob with small team in short duration with Basic desgining, Swift,Flutter,Node,Express,MongoDB,N/A skills', 'completion': 'Flutter-Node stack'}
+{'prompt': 'A API data fetch in Mob with medium team in short duration with Basic desgining, Swift,Flutter,PHP,Express,MongoDB,MySQL skills', 'completion': 'Flutter-Node stack'}
+{'prompt': 'A API data fetch in Mob with medium team in long duration with Intermediate desgining, XML,Flutter,Java,Node,MySQL,N/A skills', 'completion': 'Android Native'}
+{'prompt': 'A API data fetch in Mob with small team in long duration with Intermediate desgining, XML,Flutter,Java,Express,MySQL,MongoDB skills', 'completion': 'Android Native'}
+{'prompt': 'A API data fetch in Mob with small team in long duration with Intermediate desgining, XML,Flutter,Java,Express,MySQL,MongoDB skills', 'completion': 'Android Native'}
+{'prompt': 'A API data fetch in Mob with small team in short duration with Basic desgining, N/A,N/A,N/A,N/A,N/A,N/A skills', 'completion': 'React Native'}
+{'prompt': 'A API data fetch in Web with small team in short duration with Basic desgining, N/A,N/A,N/A,N/A,N/A,N/A skills', 'completion': 'React'}
+{'prompt': 'A API data fetch in Mob with medium team in medium duration with Intermediate desgining, React Native,Flutter,Node,Express,MongoDB,N/A skills', 'completion': 'RN with Node stack'}
+{'prompt': 'A API data fetch in Web with medium team in medium duration with Intermediate desgining, ReactJS,Angular,Node,Express,MySQL,MongoDB skills', 'completion': 'MERN stack'}
+{'prompt': 'A API data fetch in Web with large team in long duration with Advanced desgining, ReactJS,Vue,Node,SpringBoot,MySQL,N/A skills', 'completion': 'MERN stack'}
+{'prompt': 'A Todo application in Web with very small team in short duration with Basic desgining, ReactJS,Angular,Node,SpringBoot,MySQL,MongoDB skills', 'completion': 'React'}
+{'prompt': 'A Todo application in Web with small team in short duration with Intermediate desgining, Angular,NextJS,PHP,SpringBoot,MongoDB,N/A skills', 'completion': 'Angular'}
+{'prompt': 'A Todo application in Web with small team in short duration with Basic desgining, N/A,N/A,N/A,N/A,N/A,N/A skills', 'completion': 'React'}
+{'prompt': 'A Todo application in Mob with small team in short duration with Basic desgining, N/A,N/A,N/A,N/A,N/A,N/A skills', 'completion': 'Flutter'}
+{'prompt': 'A Todo application in Web with small team in short duration with Intermediate desgining, ReactJS,NextJS,PHP,SpringBoot,N/A,N/A skills', 'completion': 'React'}
+{'prompt': 'A Todo application in Web with medium team in medium duration with Intermediate desgining, Angular,NextJS,Express,Python,MySQL,Postgres skills', 'completion': 'Angular-Node-RelationalDB'}
+{'prompt': 'A Todo application in Web with medium team in medium duration with Intermediate desgining, NextJS,ReactJS,Express,Python,MySQL,Postgres skills', 'completion': 'React-Node-RelationalDB'}
+{'prompt': 'A Todo application in Web with small team in short duration with Intermediate desgining, Angular,NextJS,Python,Node,Postgres,MongoDB skills', 'completion': 'Angular'}
+{'prompt': 'A Todo application in Web with medium team in medium duration with Basic desgining, Angular,ReactJS,Node,Express,MongoDB,MySQL skills', 'completion': 'MERN stack'}
+{'prompt': 'A Todo application in Web with medium team in medium duration with Advanced desgining, ReactJS,N/A,Node,Ruby on Rails,MySQL,N/A skills', 'completion': 'React-Node-RelationalDB'}
+{'prompt': 'A Todo application in Mob with small team in medium duration with Intermediate desgining, React Native,XML,Node,Express,N/A,N/A skills', 'completion': 'React Native'}
+{'prompt': 'A Todo application in Mob with very small team in short duration with Intermediate desgining, React Native,Flutter,PHP,Node,MySQL,MongoDB skills', 'completion': 'React Native'}
+{'prompt': 'A Todo application in Mob with small team in short duration with Intermediate desgining, Swift,React Native,Python,Flask,MongoDB,Postgres skills', 'completion': 'iOS Native'}
+{'prompt': 'A Todo application in Mob with large team in long duration with Basic desgining, Flutter,Swift,Laravel,SpringBoot,N/A,MongoDB skills', 'completion': 'Flutter-PHP stack'}
+{'prompt': 'A Todo application in Mob with medium team in long duration with Advanced desgining, XML,Flutter,Java,Django,N/A,Postgres skills', 'completion': 'Android Native'}
+{'prompt': 'A Todo application in Mob with medium team in long duration with Intermediate desgining, XML,React Native,Express,NestJS,Postgres,MongoDB skills', 'completion': 'RN with Node stack'}
+{'prompt': 'A Job portal in Mob with small team in short duration with Intermediate desgining, Swift,Flutter,Node,Express,MongoDB,MySQL skills', 'completion': 'Flutter-Node stack'}
+{'prompt': 'A Job portal in Mob with very small team in short duration with Basic desgining, Flutter,Swift,Node,Laravel,MySQL,Postgres skills', 'completion': 'Flutter-Node stack'}
+{'prompt': 'A Job portal in Mob with medium team in medium duration with intermediate desgining, React Native,Flutter,PHP,SpringBoot,MySQL,MongoDB skills', 'completion': 'RN with PHP'}
+{'prompt': 'A Job portal in Mob with medium team in short duration with intermediate desgining, Flutter,XML,SpringBoot,Laravel,MySQL,N/A skills', 'completion': 'RN with Laravel'}
+{'prompt': 'A Job portal in Mob with large team in long duration with advanced desgining, XML,React Native,SpringBoot,PHP,MySQL,Postgres skills', 'completion': 'RN with Spring'}
+{'prompt': 'A Job portal in Web with large team in medium duration with intermediate desgining, ReactJS,NextJS,Node,Laravel,MySQL,MongoDB skills', 'completion': 'MERN stack'}
+{'prompt': 'A Job portal in Web with medium team in long duration with intermediate desgining, Angular,ReactJS,PHP,Java,MySQL,Postgres skills', 'completion': 'AngularPHP stack'}
+{'prompt': 'A Job portal in Web with very small team in short duration with basic desgining, Vue,NextJS,Node,Express,MongoDB,N/A skills', 'completion': 'MEVN stack'}
+{'prompt': 'A Job portal in Web with medium team in medium duration with basic desgining, ReactJS,NextJS,Laravel,SpringBoot,MySQL,MongoDB skills', 'completion': 'ReactPHP stack'}
+{'prompt': 'A Job portal in Web with medium team in short duration with intermediate desgining, ReactJS,Angular,SpringBoot,Node,Postgres,MongoDB skills', 'completion': 'React-Node-RelationalDB'}
+{'prompt': 'A Job portal in Web with medium team in long duration with Intermediate desgining, Vue.js,ReactJS,Python,Django,PostgreSQL,N/A skills', 'completion': 'React-Python stack'}
+{'prompt': 'A Social networking platform in Web with large team in long duration with Intermediate desgining, NextJS,ReactJS,Node,Python,MongoDB,Postgres skills', 'completion': 'Next-Node stack'}
+{'prompt': 'A Social networking platform in Web with large team in long duration with Basic desgining, ReactJS,NextJS,SpringBoot,Node,GraphQL,Postgres skills', 'completion': 'Next-Node with GQL stack'}
+{'prompt': 'A Social networking platform in Web with medium team in medium duration with Intermediate desgining, Angular,NextJS,Node,Python,GraphQL,Postgres skills', 'completion': 'Next-Node with GQL stack'}
+{'prompt': 'A Social networking platform in Web with medium team in medium duration with Intermediate desgining, ReactJS,NextJS,PHP,Laravel,MongoDB,Postgres skills', 'completion': 'NextPHP stack'}
+{'prompt': 'A Social networking platform in Web with very small team in short duration with Intermediate desgining, Vue,ReactJS,Node,Express,MongoDB,Postgres skills', 'completion': 'MEVN stack'}
+{'prompt': 'A Social networking platform in Web with small team in short duration with Intermediate desgining, Vue,Angular,Node,NestJS,MongoDB,MySQL skills', 'completion': 'MEVN stack'}
+{'prompt': 'A Online learning platform in Web with large team in short duration with Advanced desgining, ReactJS,NextJS,Java,Spring Boot,PostgreSQL,GraphQL skills', 'completion': 'React-Spring stack'}
+{'prompt': 'A Online learning platform in Web with small team in medium duration with Intermediate desgining, Vue,NextJS,Node,Python,MongoDB,N/A skills', 'completion': 'MEVN stack'}
+{'prompt': 'A Online learning platform in Web with very small team in short duration with Basic desgining, ReactJS,Angular,Django,Node,MySQL,N/A skills', 'completion': 'MERN stack'}
+{'prompt': 'A Online learning platform in Web with small team in short duration with Basic desgining, Angular,Vue,Node,Java,MySQL,MongoDB skills', 'completion': 'MEVN stack'}
+{'prompt': 'A Online learning platform in Web with medium team in medium duration with Intermediate desgining, ReactJS,NextJS,Java,Laravel,MySQL,Postgres skills', 'completion': 'ReactPHP stack'}
+{'prompt': 'A Online learning platform in Web with large team in long duration with Intermediate desgining, NextJS,Angular,SpringBoot,Java,MySQL,MongoDB skills', 'completion': 'Angular-Spring stack'}
+{'prompt': 'A Online learning platform in Mob with medium team in long duration with Intermediate desgining, Flutter,React Native,Java,PHP,MySQl,MongoDB skills', 'completion': 'RN with Node stack'}
+{'prompt': 'A Online learning platform in Mob with small team in medium duration with Basic desgining, Flutter,Swift,Laravel,Django,MongoDB,N/A skills', 'completion': 'Flutter-PHP stack'}
+{'prompt': 'A Online learning platform in Mob with very small team in short duration with Basic desgining, React Native,XML,Node,Flask,MySQL,MongoDB skills', 'completion': 'RN with Node'}
+{'prompt': 'A Online learning platform in Mob with small team in short duration with Intermediate desgining, Swift,XML,Node,PHP,MongoDB,Postgres skills', 'completion': 'iOS Native'}
+{'prompt': 'A Online learning platform in Mob with small team in short duration with Intermediate desgining, Swift,XML,Java,Node,MySQL,N/A skills', 'completion': 'Android Native'}
+{'prompt': 'A Online learning platform in Mob with medium team in medium duration with Intermediate desgining, React Native,Flutter,PHP,Python,MySQl,MongoDB skills', 'completion': 'Flutter-PHP stack'}
+{'prompt': 'A Gaming Platform in Mob with small team in short duration with Basic desgining, React Native,Flutter,Node,PHP,MySQL,MongoDB skills', 'completion': 'Flutter-Node stack'}
+{'prompt': 'A Gaming Platform in Mob with very small team in short duration with Intermediate desgining, XML,Flutter,Laravel,Django,MongoDB,MySQL skills', 'completion': 'Flutter-Python stack'}
+{'prompt': 'A Gaming Platform in Mob with medium team in medium duration with Intermediate desgining, React Native,Swift,Java,Python,MySQL,N/A skills', 'completion': 'Flutter-Python stack'}
+{'prompt': 'A Gaming Platform in Mob with large team in long duration with Advanced desgining, React Native,Flutter,Java,PHP,MongoDB,N/A skills', 'completion': 'Flutter-Java stack'}
+{'prompt': 'A Gaming Platform in Web with small team in short duration with Basic desgining, Vue,NextJS,Node,SpringBoot,MySQL,MongoDB skills', 'completion': 'Next-Node stack'}
+{'prompt': 'A Gaming Platform in Web with very small team in short duration with Intermediate desgining, ReactJS,Vue,Django,Flask,MySQL,Postgres skills', 'completion': 'Next-Python stack'}
+{'prompt': 'A Gaming Platform in Web with medium team in medium duration with Intermediate desgining, Angular,NextJS,Java,Python,N/A,N/A skills', 'completion': 'Next-Python stack'}
+{'prompt': 'A Gaming Platform in Web with large team in long duration with Advanced desgining, NextJS,ReactJS,Node,Python,MySQL,N/A skills', 'completion': 'Next-Node stack'}
+{'prompt': 'A Portfolio in Web with small team in short duration with Basic desgining, Vue,ReactJS,Node,PHP,MySQL,MongoDB skills', 'completion': 'MEVN stack'}
+{'prompt': 'A Portfolio in Web with very small team in short duration with Intermediate desgining, ReactJS,NextJS,PHP,Python,N/A,MySQL skills', 'completion': 'MERN stack'}
+{'prompt': 'A Portfolio in Web with small team in short duration with Intermediate desgining, ReactJS,Angular,Java,Node,MongoDB,N/A skills', 'completion': 'MERN stack'}
+{'prompt': 'A Portfolio in Web with very small team in short duration with Basic desgining, Angular,Vue,Node,Express,GraphQL,MySQL skills', 'completion': 'MEVN stack'}
+{'prompt': 'A Language Translator in Web with small team in short duration with Basic desgining, ReactJS,NextJS,Node,Express,GraphQL,MySQL skills', 'completion': 'MERN stack'}
+{'prompt': 'A Language Translator in Web with very small team in short duration with Basic desgining, Vue,ReactJS,Python,Node,MongoDB,GraphQL skills', 'completion': 'MEVN stack'}
+{'prompt': 'A Language Translator in Web with medium team in short duration with Intermediate desgining, Angular,NextJS,Node,PHP,MongoDB,MySQL skills', 'completion': 'Next-Node stack'}
+{'prompt': 'A Language Translator in Web with medium team in medium duration with Intermediate desgining, Angular,ReactJS,Laravel,Django,MySQL,MongoDB skills', 'completion': 'React-Python stack'}
+{'prompt': 'A Language Translator in Mob with small team in short duration with Basic desgining, Swift,Flutter,Node,PHP,MySQL,N/A skills', 'completion': 'Flutter-Node stack'}
+{'prompt': 'A Language Translator in Mob with very small team in short duration with Basic desgining, Flutter,React Native,Node,Python,MongoDB,GraphQL skills', 'completion': 'RN with Node stack'}
+{'prompt': 'A Language Translator in Mob with medium team in short duration with Intermediate desgining, React Native,Flutter,Java,Node,MySQL,Postgres skills', 'completion': 'Flutter-Java stack'}
+{'prompt': 'A Language Translator in Mob with medium team in medium duration with Intermediate desgining, React Native,Swift,Node,Express,MySQL,MongoDB skills', 'completion': 'RN with Node stack'}
+{'prompt': 'A Complex management system in Mob with very small team in short duration with Basic desgining, N/A,N/A,Node,SpringBoot,MongoDB,GraphQL skills', 'completion': 'RN with Node'}
+{'prompt': 'A Complex management system in Mob with small team in medium duration with Intermediate desgining, Flutter,Swift,Node,Express,GraphQL,MongoDB skills', 'completion': 'Flutter-Node with GQl'}
+{'prompt': 'A Complex management system in Mob with medium team in long duration with Intermediate desgining, React Native,XML,Node,NestJS,MySQL,MongoDB skills', 'completion': 'RN with Node'}
+{'prompt': 'A Complex management system in Mob with large team in medium duration with Advanced desgining, Flutter,Swift,Node,Laravel,MongoDB,MySQL skills', 'completion': 'Flutter-Node with GQl'}
