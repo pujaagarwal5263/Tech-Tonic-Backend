@@ -6,6 +6,4 @@ Model for Open AI API fine-tuning to create a tech stack recommender
 - Model name: curie:ft-personal-2023-04-16-12-05-03
 
 # Example Project
-```
-https://tech-tonic-frontend.netlify.app/
-```
+<a href="https://tech-tonic-frontend.netlify.app/">Tech-Tonic</a>
