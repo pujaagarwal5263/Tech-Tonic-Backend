@@ -2,7 +2,7 @@ import openai
 import csv
 
 # Insert your OpenAI API key here
-openai.api_key = "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"
+openai.api_key =  API_KEY
 
 # Load the data from the CSV file
 with open('data.csv', 'r') as file:
